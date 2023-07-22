@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**s1000dev/s1000dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
+</div>
 
-Here are some ideas to get you started:
+# I'm s1000, you can start wondering where does that come from :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Doing my best to become someone they call 'web-developer'
+
+### Technologies I study:
+
+* #### HTML
+* #### CSS
+* #### JS
+* ##### numerous preprocessors, toolkits, libraries, yadda yadda
+
+### Looking forward to learn:
+* ### Vue
+* ### Webpack
+
+
+#### Here are gonna be 'awesome' projects I created:
+
+* [like this one](https://www.scienceofpeople.com/how-to-be-funny/)
+* [and this one](https://www.ecenglish.com/learnenglish/lessons/how-use-sarcasm)
+* [another one](https://en.wikipedia.org/wiki/Humour)
+
+<div align='center'>
+
+![](https://thumbs.gfycat.com/EntireFrailIraniangroundjay.webp)
+
+```
+But you can write simple and extensible code without oop, for instance in JavaScript
+```
+</div>
